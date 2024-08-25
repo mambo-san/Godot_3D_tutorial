@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724565957
+default_bus_layout.tres::AudioBusLayout::-1::1722914629::0::1::::<><>::
+default_env.tres::Environment::-1::1722914629::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1724559602::0::1::::<><>::
+icon.png::CompressedTexture2D::3114742520266472245::1722914342::1722914648::1::::<><>::
+music_player.tscn::PackedScene::597435193882414240::1724299682::0::1::::<><>::uid://cwfjjysdq23y5::::res://art/House In a Forest Loop.ogg
+player.gd::GDScript::-1::1724306709::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::7228680932387022188::1724565966::0::1::::<><>::uid://c2grpjmpx6hxk::::res://art/player.glb<>res://player.gd
+ScoreLabel.gd::GDScript::-1::1724003507::0::1::::<>Label<>::
+::res://art/::1722914649
+body.material::StandardMaterial3D::-1::1722914342::0::1::::<><>::
+eye.material::StandardMaterial3D::-1::1722914342::0::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6327881629798920694::1722914343::1722914648::1::::<><>::
+mob.glb::PackedScene::2789864723505081505::1722914342::1722914649::1::::<><>::
+mob_body.material::StandardMaterial3D::-1::1722914343::0::1::::<><>::
+mob_eye.material::StandardMaterial3D::-1::1722914343::0::1::::<><>::
+player.glb::PackedScene::6681385879884337148::1722914342::1722914649::1::::<><>::
+pupil.material::StandardMaterial3D::-1::1722914342::0::1::::<><>::
+::res://fonts/::1722914648
+LICENSE.txt::TextFile::-1::1722914343::0::1::::<><>::
+Montserrat-Medium.ttf::FontFile::4369902019766817244::1722914343::1722914648::1::::<><>::
+::res://scenes/::1724565957
+main.gd::GDScript::-1::1724565949::0::1::::<>Node<>::
+main.tscn::PackedScene::1347139138529668581::1724565966::0::1::::<><>::uid://da8vk3tn5togq::::res://player.tscn<>res://scenes/main.gd<>uid://5p7oop1f5hmr::::res://scenes/mob.tscn<>uid://b3i2wa4yl63hw::::res://fonts/Montserrat-Medium.ttf<>res://ScoreLabel.gd
+mob.gd::GDScript::-1::1724307407::0::1::::<>CharacterBody3D<>::
+mob.tscn::PackedScene::2138599680023222149::1724565957::0::1::::<><>::uid://bf0owubiw0lpp::::res://art/mob.glb<>res://scenes/mob.gd
